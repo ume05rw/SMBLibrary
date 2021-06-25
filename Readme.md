@@ -72,3 +72,4 @@ Contact:
 ========
 If you have any question, feel free to contact me.  
 Tal Aloni <tal.aloni.il@gmail.com>
+** ↑ This is the original SMBLibrary owner. If you have any problems with SMBLibrary.ForXamarin, please [send issues on this repository](https://github.com/ume05rw/SMBLibrary.ForXamarin/issues/new), not to the original owner.
