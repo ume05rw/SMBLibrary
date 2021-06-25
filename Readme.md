@@ -1,3 +1,8 @@
+SMBLibrary.ForXamarin
+=================
+This is a fork of [Tal Aloni's SMBLibrary](https://github.com/TalAloni/SMBLibrary), that a workaround for the issue where iOS does not discard resources in Socket.  
+Modified only client logic, not server.
+
 About SMBLibrary:
 =================
 SMBLibrary is an open-source C# SMB 1.0/CIFS, SMB 2.0, SMB 2.1 and SMB 3.0 server and client implementation.  
